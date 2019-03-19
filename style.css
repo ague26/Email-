@@ -1,0 +1,172 @@
+.email-background{
+	background-color: #eeeeee;
+	width: 100%;
+}
+
+.pre-header{
+	font-size: 1px;
+	display: none;
+}
+.header{
+	text-align: center;
+	min-height: 45px;
+	max-width: 500px;
+	margin: auto;
+	padding: 0;
+	background-color: white;
+}
+.header li{
+	display: inline-block;
+	padding: 12px 10px;
+	font-size: 15px;
+}
+.header code{
+	float: left;
+	padding: 10px 0px;
+	color: #44b2f3;
+	margin-left: 20px;
+
+}
+.header p{
+	float: right;
+	margin: 0;
+	padding: 10px 0px;
+	color: #44b2f3;
+	font-weight: 600;
+	margin-right: 20px;
+
+}
+.email-container{
+	background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(68,178,243,1) 100%);
+	max-width:500px;
+	margin: auto;
+}
+.email-container p{
+	margin: 0;
+	text-align: center;
+	color:white;
+	padding: 20px 0;
+
+}
+.email-container p span{
+	font-size: 20px;
+	font-weight: 600;
+}
+.cs-skills{
+	text-align: center;
+	padding-bottom: 20px;
+
+}
+.cs-skills img{
+	max-width: 80px;
+	border-radius:30px;
+	border: 1px solid white;
+}
+.cs-skills a{
+	min-height: 80px;
+	display: inline-block;
+	border-radius:30px;
+	border: 1px solid #44b2f3;
+	background-color: white;
+	vertical-align: text-bottom;
+	text-decoration: none;
+}
+.cs-skills a p{
+	margin-top: 30px;
+	padding: unset;
+	color: #1f586e;
+	
+}
+.profile{
+	text-align: center;
+}
+.profile img{
+	border-radius: 100px;
+}
+.recommend-container{
+	width: 100%
+}
+.recommend-container h2{
+	text-align: center;
+	display: block;
+	color:#0f3b5d;
+}
+.recommendation{
+	text-align: center;
+}
+.recomm-1{
+	display: inline-block;
+	width: 45%;
+	vertical-align: middle;
+	
+}
+.recomm-1 p {
+	word-wrap: break-word;	
+	padding: unset;
+	color: black;
+	font-size: 12px;
+}
+.line-container{
+	vertical-align: middle;
+	display: inline-block;
+	width: 2px;
+	height: 150px;
+
+}
+.line{
+	min-width: 1px;
+	background-color: white;
+	height: 20px;
+	display: inline-block;
+	height: 100%;
+
+}
+.recomm-2{
+	display: inline-block;
+	width: 45%;
+	vertical-align: middle;
+	
+}
+.recomm-2 p{
+	word-wrap: break-word;	
+	padding: unset;
+	color: black;
+	font-size: 12px;
+	line-height: 20px;
+
+}
+.social-links{
+	text-align: center;
+	padding: 30px 0px;
+}
+#linkedin{
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	padding: 0px 10px;
+}
+#github{
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	padding: 0px 10px;
+}
+.portfolio-container{
+	height: 40px;
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: top;
+}
+#portfolio{
+	line-height: 30px;
+	padding: 0px 10px;
+}
+
+
+
+
+
+
+
+
